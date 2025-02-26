@@ -1,14 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Amaan+Syed+%F0%9F%8F%8E%EF%B8%8F;Welcome+to+my+Profile!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansyed27&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=2800&pause=2000&color=00B3FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Amaan+Syed+%F0%9F%8F%8E%EF%B8%8F;Welcome+to+my+Profile!;Android+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=00b3ff&style=for-the-badge" alt="Profile Views">
 </p>
+
+<div align="center">
+  <a href="#">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amaansyed27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  </a>
+  <a href="#">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansyed27&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
 
 ---
 
@@ -20,31 +29,68 @@ const amaan = {
     role: "Native Android Developer",
     passions: ["AI", "Data Science", "Mobile Development"],
     hobbies: ["Football ⚽", "Formula 1 🏎️", "Coding 💻"],
-    favoriteTeam: "Arsenal FC 💙❤️",
+    favoriteTeam: "FC Barcelona 🔵🔴",
+    favoriteF1Team: "McLaren 🧡",
     currentFocus: "Building awesome Android apps",
     motto: "Full Throttle Coder 🚀"
 };
 ```
 
-<!-- Previous content remains the same -->
+---
+
+<h2 align="center">⚽ Football Passion</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FC_Barcelona-%23A50044?style=for-the-badge&logo=fcbarcelona&logoColor=white" alt="FC Barcelona"/>
+  <img src="https://img.shields.io/badge/La_Liga-%23EA5A0B?style=for-the-badge&logo=laliga&logoColor=white" alt="La Liga"/>
+</p>
+
+<p align="center">
+  <em>"Quality without results is pointless. Results without quality is boring." — Johan Cruyff</em>
+</p>
 
 <div align="center">
-  <!-- Custom Animations -->
-  <div class="animation-container">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/football-game.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/football-game.svg">
-      <img alt="Football Game Animation" src="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/football-game.svg" width="400">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/monaco-track.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/monaco-track.svg">
-      <img alt="Monaco Track Animation" src="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/monaco-track.svg" width="400">
-    </picture>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Més_que_un_club-%23004D98?style=for-the-badge" alt="Més que un club"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Camp_Nou-%23A50044?style=for-the-badge" alt="Camp Nou"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Visca_El_Barça-%23004D98?style=for-the-badge" alt="Visca El Barça"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Rest of content remains the same -->
+---
+
+<h2 align="center">🏎️ Formula 1 Enthusiast</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Formula_1-%23E10600?style=for-the-badge&logo=formula1&logoColor=white" alt="Formula 1"/>
+  <img src="https://img.shields.io/badge/McLaren-%23FF8700?style=for-the-badge&logo=mclaren&logoColor=white" alt="McLaren"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Race_Weekend-%23121212?style=for-the-badge" alt="Race Weekend"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Papaya_Power-%23FF8700?style=for-the-badge" alt="Papaya Power"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Podium-%23900C3F?style=for-the-badge" alt="Podium"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>"If you no longer go for a gap that exists, you're no longer a racing driver." — Ayrton Senna</em>
+</p>
 
 ---
 
@@ -56,7 +102,7 @@ const amaan = {
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 </p>
 
 <p align="center">
@@ -90,6 +136,32 @@ const amaan = {
   <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaansyed27&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph">
+  </a>
+</p>
+
+---
+
+<h2 align="center">💻 Coding Journey</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Clean_Code-%2300ADB5?style=for-the-badge" alt="Clean Code"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Problem_Solving-%23FF5722?style=for-the-badge" alt="Problem Solving"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Continuous_Learning-%234CAF50?style=for-the-badge" alt="Continuous Learning"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 <h2 align="center">🤝 Let's Connect!</h2>
@@ -101,9 +173,15 @@ const amaan = {
   <a href="https://twitter.com/amaansyed27" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <!-- You can add more social links if needed -->
 </p>
+
+<div align="center">
+  <h3>💼 Open for collaborations and opportunities</h3>
+  <p>Feel free to reach out if you want to talk about Android development, Barcelona's tiki-taka, or the latest McLaren performance!</p>
+</div>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=100&section=footer"/>
 </p>
