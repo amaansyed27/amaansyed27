@@ -26,15 +26,25 @@ const amaan = {
 };
 ```
 
+<!-- Previous content remains the same -->
+
 <div align="center">
   <!-- Custom Animations -->
   <div class="animation-container">
-    <!-- Football Game Animation -->
-    <img width="400" src="https://github.com/amaansyed27/amaansyed27/blob/output/football-game.svg" alt="Football Game Animation">
-    <!-- Monaco Track Animation -->
-    <img width="400" src="https://github.com/amaansyed27/amaansyed27/blob/output/monaco-track.svg" alt="Monaco Track Animation">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/football-game.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/football-game.svg">
+      <img alt="Football Game Animation" src="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/football-game.svg" width="400">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/monaco-track.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/monaco-track.svg">
+      <img alt="Monaco Track Animation" src="https://raw.githubusercontent.com/amaansyed27/amaansyed27/output/monaco-track.svg" width="400">
+    </picture>
   </div>
 </div>
+
+<!-- Rest of content remains the same -->
 
 ---
 
