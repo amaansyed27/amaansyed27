@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Amaan+Syed+%F0%9F%8F%8E%EF%B8%8F;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amaansyed27&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Amaan Syed's GitHub Stats" /> 
+<div align="center">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansyed27&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
@@ -30,8 +29,10 @@ const amaan = {
 <div align="center">
   <!-- Custom Animations -->
   <div class="animation-container">
-    <img src="assets/animations/football-game.gif" width="400" alt="Interactive Football Game"/>
-    <img src="assets/animations/monaco-track.gif" width="400" alt="Monaco F1 Track"/>
+    <!-- Football Game Animation -->
+    <img width="400" src="https://github.com/amaansyed27/amaansyed27/blob/output/football-game.svg" alt="Football Game Animation">
+    <!-- Monaco Track Animation -->
+    <img width="400" src="https://github.com/amaansyed27/amaansyed27/blob/output/monaco-track.svg" alt="Monaco Track Animation">
   </div>
 </div>
 
@@ -77,10 +78,6 @@ const amaan = {
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amaansyed27&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
