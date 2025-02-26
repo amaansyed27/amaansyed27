@@ -1,23 +1,97 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b3ff&height=200&section=header&text=Amaan%20Syed&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20|%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=2800&pause=2000&color=00B3FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Amaan+Syed+%F0%9F%8F%8E%EF%B8%8F;Welcome+to+my+Profile!;Android+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<div align="center">
+  <a href="https://linkedin.com/in/amaansyed27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/amaansyed27" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=00b3ff&style=for-the-badge" alt="Profile Views">
-</p>
-
-<div align="center">
-  <a href="#">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=amaansyed27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  </a>
-  <a href="#">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="mailto:contact@amaansyed.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansyed27&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img src="https://img.shields.io/badge/Last%20Updated-Feb%2026%2C%202025-brightgreen?style=for-the-badge&logo=github" alt="Last Updated"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,react,ts,html,css,python,git&perline=9" alt="Tech Stack" />
+</div>
+
+<hr>
+
+<div align="center">
+  <h2>📊 GitHub Stats & Achievements</h2>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaansyed27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="#">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophy" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaansyed27&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph">
+</div>
+
+<hr>
+
+<div align="center">
+  <h2>🚀 About Me</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div style="text-align: center; padding: 20px;">
+          <img src="https://img.icons8.com/color/96/000000/developer--v2.png" width="60" height="60"/>
+          <h3>Native Android Developer</h3>
+          <p>Creating beautiful, performant mobile experiences</p>
+        </div>
+      </td>
+      <td>
+        <div style="text-align: center; padding: 20px;">
+          <img src="https://img.icons8.com/color/96/000000/brain--v2.png" width="60" height="60"/>
+          <h3>AI & Data Science Enthusiast</h3>
+          <p>Exploring the frontiers of machine learning</p>
+        </div>
+      </td>
+      <td>
+        <div style="text-align: center; padding: 20px;">
+          <img src="https://img.icons8.com/color/96/000000/code.png" width="60" height="60"/>
+          <h3>Full Throttle Coder</h3>
+          <p>Passionate about clean, efficient code</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -136,11 +210,7 @@ const amaan = {
   <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaansyed27&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph">
-  </a>
-</p>
+
 
 ---
 
