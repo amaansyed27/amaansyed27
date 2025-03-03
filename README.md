@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,react,ts,html,css,python,git&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,react,ts,html,css,python,git,vscode,qt,vercel,netlify,ai,figma,firebase&perline=9" alt="Tech Stack" />
 </div>
 
 <hr>
