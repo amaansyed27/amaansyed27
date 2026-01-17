@@ -88,4 +88,6 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
   <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=blueviolet&style=flat" alt="visitor count" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
