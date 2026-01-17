@@ -58,7 +58,7 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
   </a>
 </p>
 
@@ -67,8 +67,8 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 ### 📊 Activity
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed27">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed27&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=amaansyed27&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -87,5 +87,5 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=blueviolet&style=flat" alt="visitor count" />
 </p>
