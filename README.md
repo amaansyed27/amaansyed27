@@ -17,19 +17,25 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 
 ---
 
+### 🏅 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_AI_Demos_x_VideoDB-Winner-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈_ML_Mumbai-2nd_Place-C0C0C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_AcWoC'25-Winner-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅_SSOC'25-Top_10-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅_HackHazards'25-Top_100-1E90FF?style=for-the-badge" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,react,nextjs,nodejs,androidstudio,firebase,git,figma,vscode&theme=dark&perline=6" />
+  </a>
+</p>
 
 ---
 
@@ -51,7 +57,9 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  </a>
 </p>
 
 ---
@@ -59,14 +67,14 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 ### 📊 Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?username=amaansyed27&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed27">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed27&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaansyed27&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaansyed27&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
 
@@ -81,4 +89,3 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=blueviolet&style=flat" />
 </p>
-
