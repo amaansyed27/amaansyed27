@@ -48,16 +48,32 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaansyed27&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansyed27&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
+### 📊 Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?username=amaansyed27&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaansyed27&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
+  🏎️<br/>
   <i>"If you no longer go for a gap that exists, you're no longer a racing driver."</i><br/>
   — <b>Ayrton Senna</b>
 </p>
@@ -65,3 +81,4 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amaansyed27&color=blueviolet&style=flat" />
 </p>
+
