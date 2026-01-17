@@ -58,7 +58,7 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amaansyed27&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+    <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=amaansyed27&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="amaansyed27 trophies" />
   </a>
 </p>
 
