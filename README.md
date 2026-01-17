@@ -11,20 +11,21 @@
 
 ### 👋 About Me
 
-I'm a software developer who enjoys building things across the stack — from AI agents and automation pipelines to Android apps and web interfaces. I like solving real problems and shipping things that work.
-
-Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://videodb.io) where I built video AI workflows.
+I'm a software developer and **AI Engineer** specializing in **Agentic AI systems** and automation pipelines. Currently a CS undergrad at **VIT Bhopal**. Previously, I interned at **VideoDB** where I built video AI workflows.
 
 ---
 
-### 🏅 Achievements
+### 🏅 Recognition & Achievements
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=amaansyed27&theme=onestar" width="380" alt="GitHub Achievements" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_AI_Demos_x_VideoDB-Winner-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥈_ML_Mumbai-2nd_Place-C0C0C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🏆_AcWoC'25-Winner-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🏅_SSOC'25-Top_10-32CD32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏅_HackHazards'25-Top_100-1E90FF?style=for-the-badge" />
 </p>
 
 ---
@@ -37,34 +38,71 @@ Currently studying CS at VIT Bhopal. Previously interned at [VideoDB](https://vi
   </a>
 </p>
 
----
-
-### 📂 Works
-
-| Project | Description |
-|---------|-------------|
-| [**FreshLogic**](https://github.com/amaansyed27/FreshLogic) | AI crop spoilage prevention with ensemble ML models |
-| [**Edentic**](https://github.com/amaansyed27/Edentic) | AI video director — describe your vision, it handles the edit |
-| [**Sentinel**](https://github.com/amaansyed27/Sentinel) | Browser security extension with AI threat analysis |
-| [**Klipify**](https://github.com/amaansyed27/Klipify) | Turn YouTube videos into interactive learning experiences |
-| [**CodeGuardian AI**](https://github.com/amaansyed27/codeguardian-ai) | AI-powered code review tool |
-| [**Course Generator**](https://github.com/amaansyed27/course-generator) | Generate courses with AI |
-| [**Dataweave**](https://github.com/amaansyed27/Dataweave) | Data transformation toolkit |
-| **Meteor** | Browser AI agent with local memory & RAG *(coming soon)* |
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <b>AI Specializations:</b> Agentic AI • LLM Pipelines • Computer Vision • Automation • RAG Systems • Vector Databases
+  </marquee>
+</p>
 
 ---
 
-### 🏆 Trophies
+### 📂 Featured Works
+*A dynamic matrix of my AI-powered systems and developer tools.*
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/amaansyed27/FreshLogic">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=FreshLogic&theme=tokyonight" height="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amaansyed27/Edentic">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Edentic&theme=tokyonight" height="120" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/amaansyed27/Sentinel">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Sentinel&theme=tokyonight" height="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amaansyed27/Klipify">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Klipify&theme=tokyonight" height="120" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/amaansyed27/codeguardian-ai">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=codeguardian-ai&theme=tokyonight" height="120" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amaansyed27/course-generator">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=course-generator&theme=tokyonight" height="120" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/amaansyed27/Dataweave">
+    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Dataweave&theme=tokyonight" height="120" />
+  </a>
+</p>
+
+---
+
+### 📊 Activity Dashboard
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=amaansyed27&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="amaansyed27 trophies" />
   </a>
 </p>
-
----
-
-### 📊 Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amaansyed27&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
