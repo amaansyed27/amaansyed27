@@ -89,14 +89,15 @@ I'm a software developer and **AI Engineer** specializing in **Agentic AI system
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amaansyed27&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+---
+
+### 🏅 Recognition & Achievements
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaansyed27&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img src="https://img.shields.io/badge/🏆_AI_Demos_x_VideoDB-Winner-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈_ML_Mumbai-2nd_Place-C0C0C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_AcWoC'25-Winner-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅_SSOC'25-Top_10-32CD32?style=for-the-badge" />
 </p>
 
 ---
