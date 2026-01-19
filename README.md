@@ -97,7 +97,7 @@ I'm a software developer and **AI Engineer** specializing in **Agentic AI system
   <img src="https://img.shields.io/badge/🏆_AI_Demos_x_VideoDB-Winner-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥈_ML_Mumbai-2nd_Place-C0C0C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🏆_AcWoC'25-Winner-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏅_SSOC'25-Top_10-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅_SSOC'25-Top_12-32CD32?style=for-the-badge" />
 </p>
 
 ---
