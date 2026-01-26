@@ -104,8 +104,8 @@ I'm a software developer and **AI Engineer** specializing in **Agentic AI system
 
 <p align="center">
   🏎️<br/>
-  <i>"If you no longer go for a gap that exists, you're no longer a racing driver."</i><br/>
-  — <b>Ayrton Senna</b>
+  <i>"Stay hungry, stay foolish."</i><br/>
+  — <b>Steve Jobs</b>
 </p>
 
 <p align="center">
