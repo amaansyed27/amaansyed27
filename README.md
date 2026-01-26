@@ -104,7 +104,7 @@ I'm a software developer and **AI Engineer** specializing in **Agentic AI system
 
 <p align="center">
   🏎️<br/>
-  <i>"Stay hungry, stay foolish."</i><br/>
+  <i>"Stay hungry, Stay foolish."</i><br/>
   — <b>Steve Jobs</b>
 </p>
 
