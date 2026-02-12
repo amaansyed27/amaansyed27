@@ -11,7 +11,7 @@
 
 ### 👋 About Me
 
-I'm a software developer and **AI Engineer** specializing in **Agentic AI systems** and automation pipelines. Currently a CS undergrad at **VIT Bhopal**. Previously, I interned at **VideoDB** where I built video AI workflows.
+I'm a software developer and **AI Engineer** specializing in **Agentic AI systems** and automation pipelines. Currently a CS undergrad at **VIT Bhopal**. Previously, I interned at **VideoDB** where I built agentic video-editing AI workflows.
 
 ---
 
