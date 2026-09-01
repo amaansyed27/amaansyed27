@@ -49,33 +49,33 @@ I'm a software developer and **AI Engineer** specializing in **Agentic AI system
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/amaansyed27/Sentinel">
-        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Sentinel&theme=tokyonight" height="120" />
+      <a href="https://github.com/amaansyed27/Syncstrike">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Syncstrike&theme=tokyonight" height="120" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/amaansyed27/Klipify">
-        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Klipify&theme=tokyonight" height="120" />
+      <a href="https://github.com/amaansyed27/scorpion-cli-agent">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=scorpion-cli-agent&theme=tokyonight" height="120" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/amaansyed27/codeguardian-ai">
-        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=codeguardian-ai&theme=tokyonight" height="120" />
+      <a href="https://github.com/amaansyed27/Takokit">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Takokit&theme=tokyonight" height="120" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/amaansyed27/course-generator">
-        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=course-generator&theme=tokyonight" height="120" />
+      <a href="https://github.com/amaansyed27/Takoflow">
+        <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Takoflow&theme=tokyonight" height="120" />
       </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/amaansyed27/Dataweave">
-    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=Dataweave&theme=tokyonight" height="120" />
+  <a href="https://github.com/amaansyed27/SwitchRoute">
+    <img src="https://readme-stats-fast.vercel.app/api/pin/?username=amaansyed27&repo=SwitchRoute&theme=tokyonight" height="120" />
   </a>
 </p>
 
